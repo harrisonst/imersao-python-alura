@@ -12,3 +12,4 @@ Com a base de dados disponibilizada, faça dois gráficos contendo as seguintes 
 #### Terceira Parte: Análise de dados com Python  
 
 
+###### Atenção: link de acesso para fins exlcusivamente educacionais e sem fins lucrativos às vídeo aulas [aqui](https://youtu.be/i9mJxcrrH3o?si=U2rC4toV8RmAnOgk) .
